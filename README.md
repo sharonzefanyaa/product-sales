@@ -2,7 +2,7 @@
 
 Perhatikan Tabel-tabel berikut:
 
-A. Tabel Barang
+**A. Tabel Barang**
 
 Nama Field | Tipe Data
 
@@ -14,7 +14,8 @@ Tanggal_Terima | Datetime
 
 Stok_Barang | Int
 
-B. Tabel Pembelian 
+
+**B. Tabel Pembelian** 
 
 Nama Field | Tipe Data
 
@@ -27,6 +28,7 @@ Tanggal_Beli | Datetime
 Jumlah_Pembelian | Int
 
 Nama_Pembeli | Varchar
+
 
 Berdasarkan tabel Barang dan tabel Pembelian selesaikanlah kasus berikut,
 1. Tuliskan query untuk menampilkan Nama_Pembeli dan Jumlah_Pembelian yang memiliki rata-rata pembelian lebih dari 5.
